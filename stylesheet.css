@@ -1,0 +1,39 @@
+
+table, th, td {
+                border: 1px solid darkblue;
+              text-shadow: dark blue ;
+                border-collapse: collapse;
+                } 
+                
+                .table1{text-transform: uppercase;}
+
+             .yes {padding-left: 140px;
+                    padding-right:10px;
+                    background-color: darkblue;
+                    color: white;
+                   text-align: center;
+                }
+                 #logo{padding-right: 50px;
+                        padding-left: 0px;
+                    margin-top: 20px;
+                float: left;}   
+                    
+                        
+                tr:hover {background-color:darkblue;
+                }
+                tr:nth-child(even){background-color: #f2f2f2;}
+                 .container{border: 2px solid black;}
+ 
+
+                .table3{padding-left: 300px;
+                padding-right: 0px;
+                padding-bottom: 10px;
+                padding-top: 0px;
+                margin-bottom:0px;
+                margin-top: -205px;
+                
+                }
+                .table2{padding-top: 10px;}
+    
+               .remark{margin-top: 97px;
+                       margin-bottom: 0px;}
